@@ -29,7 +29,7 @@ David W. Aha ( aha '@' ics.uci.edu ) (714) 856-8779
 que disponibilizaram gratuitamente para a comunidade, trabalho esse que deve ser respeitado, sou muito grato.
 
 ===============================================================================================================
-Sou muito grato as ferramentas que desenvolvo em python, todas gratuitas e com uma comunidade acolhedora sempre
+Sou muito grato aos desenvolvedores de ferramentas em python como Streamlit, todas gratuitas e com uma comunidade acolhedora sempre
 disposta a ajudar. 
 
 ===============================================================================================================
