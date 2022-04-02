@@ -28,5 +28,5 @@ que disponibilizaram gratuitamente para a comunidade, trabalho esse que deve ser
 E por fim, o intuito desse App não é por hipótese alguma classificar se uma pessoa terá ou não problemas de saúde
 mesmo que a finalidade do App tenha sido essa.
 Seria necessário desenvolver uma  análise mais aprofundada sobre o tema, criar um projeto muito mais especifico com métricas,
-gráficos e muito mais,que farei em outras oportunidades que outras ferramentas em python oferecem. O objetivo neste App é muito mais passar habilidades da criação de um App.
+gráficos e muito mais,que farei em outras oportunidades . O objetivo neste App é muito mais passar habilidades da criação de um App.
 grato até breve! não deixe de acessar o link da App!
